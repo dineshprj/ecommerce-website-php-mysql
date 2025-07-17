@@ -1,0 +1,2 @@
+# ecommerce-website-php-mysql
+A fully functional E-commerce Website built using PHP and MySQL, designed to simulate an online store. This platform allows users to browse products, add them to a shopping cart, and proceed to checkout with a secure (simulated) payment system. It also includes an admin panel to manage product inventory.
